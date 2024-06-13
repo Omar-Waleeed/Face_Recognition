@@ -83,9 +83,9 @@ Welcome to the OAAA Face Recognition Project! This application leverages `custom
 ## Preview
 <div align="center"> 
 <!--Screen our app  -->
-  <img src="/src/assets/s1.png" alt="screenshot1" />
-  <img src="/src/assets/s2.png" alt="screenshot2" />
-  <img src="/src/assets/s3.png" alt="screenshot3" />
-  <img src="/src/assets/s4.png" alt="screenshot4" />
-  <img src="/src/assets/s5.png" alt="screenshot5" />
+  <img src="/Screenshots/1.png" alt="screenshot1" />
+  <img src="/Screenshots/2.png" alt="screenshot2" />
+  <img src="/Screenshots/3.png" alt="screenshot3" />
+  <img src="/Screenshots/4.png" alt="screenshot4" />
+  <img src="/Screenshots/5.png" alt="screenshot5" />
 </div>
