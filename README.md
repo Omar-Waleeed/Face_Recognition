@@ -1,4 +1,8 @@
 # OAAA - Face Recognition Project
+[![Python](https://img.shields.io/badge/python-100%25-blue.svg)](https://www.python.org/)  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Omar-Waleeed/Face_Recognition)
+
+
+
 
 Welcome to the OAAA Face Recognition Project! This application leverages `customtkinter`, `OpenCV`, and `face_recognition` libraries to create a secure sign-in and sign-up system using facial recognition technology.
 
@@ -82,10 +86,8 @@ Welcome to the OAAA Face Recognition Project! This application leverages `custom
 
 ## Preview
 <div align="center"> 
-<!--Screen our app  -->
   <img src="/Screenshots/1.png" alt="screenshot1" />
   <img src="/Screenshots/2.png" alt="screenshot2" />
   <img src="/Screenshots/3.png" alt="screenshot3" />
   <img src="/Screenshots/4.png" alt="screenshot4" />
-  <img src="/Screenshots/5.png" alt="screenshot5" />
 </div>
